@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Yash1361
-- 👀 I’m interested in "coding" 💻💻 
-- 🌱 I’m currently learning "Python"
 - 📫 you can connect with me on my insta id - yash_1361
 
 <!---
